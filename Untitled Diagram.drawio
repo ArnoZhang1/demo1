@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T12:55:07.031Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="1Z-qcXY2LpqnWHwUbkOr" version="17.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-09T12:55:52.599Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="78AgCnNRZYUIF_4WNcFT" version="17.0.0" type="github">
   <diagram id="0sEi9B2ByEznspGVg_uB" name="Page-1">
     <mxGraphModel dx="1554" dy="2051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
         </mxCell>
         <object placeholders="1" c4Name="直营门店代下单人员" c4Type="Person" c4Description="直营门店代下单人员" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="DEqE0Zgg7CRKzhp6oG5S-2">
           <mxCell style="html=1;fontSize=11;dashed=0;whitespace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" parent="1" vertex="1">
-            <mxGeometry x="60" y="60" width="200" height="180" as="geometry" />
+            <mxGeometry x="60" y="-180" width="200" height="180" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="PM0_i0iMBUqGhcqokbRn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DEqE0Zgg7CRKzhp6oG5S-4" target="PM0_i0iMBUqGhcqokbRn-7">
@@ -30,6 +30,11 @@
             <mxGeometry x="240" y="690" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="PM0_i0iMBUqGhcqokbRn-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PM0_i0iMBUqGhcqokbRn-7" target="PM0_i0iMBUqGhcqokbRn-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <object placeholders="1" c4Name="CX中台" c4Type="Software System" c4Description="CX中台" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="PM0_i0iMBUqGhcqokbRn-7">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
             <mxGeometry x="240" y="500" width="240" height="120" as="geometry" />
